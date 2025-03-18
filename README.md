@@ -1,1 +1,1 @@
-# Chess-Game-Implementation
+This project is a fully functional chess game that I designed and implemented entirely from scratch. It includes all fundamental move validations, such as check and checkmate detection. Over several weeks, I continuously improved the code, refining its logic and structure. While the codebase is extensive, it remains well-organized and readable. This project was a significant milestone in my development journey, enhancing my problem-solving skills and algorithmic thinking.
